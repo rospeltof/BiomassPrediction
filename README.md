@@ -1,0 +1,1 @@
+Code and experiments for the Kaggle competition CSIRO – Image2Biomass Prediction. A hands-on project to learn and test computer-vision techniques for biomass estimation from images.
