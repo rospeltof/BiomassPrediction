@@ -4,3 +4,8 @@ pandas==2.2.2
 matplotlib==3.8.2
 nbstripout==0.8.2
 seaborn==0.13.2
+scikit-learn==1.7.2
+torchinfo
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
